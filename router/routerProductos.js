@@ -34,3 +34,5 @@ routerProducto.delete('/:id' ,esAdmin, async (req, res) => {
     res.json(respuesta)
 })
 
+
+
